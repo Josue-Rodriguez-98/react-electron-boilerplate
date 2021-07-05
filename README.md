@@ -1,6 +1,6 @@
 # React & Electron boilerplate made with :heart: and :coffee:
 
-![License](https://img.shields.io/github/license/Josue-Rodriguez-98/react-electron-boilerplate.svg) ![Issues](https://img.shields.io/github/issues/Josue-Rodriguez-98/react-electron-boilerplate.svg) ![forks](https://img.shields.io/github/forks/Josue-Rodriguez-98/react-electron-boilerplate) ![stars](https://img.shields.io/github/stars/Josue-Rodriguez-98/react-electron-boilerplate) ![size](https://img.shields.io/github/repo-size/Josue-Rodriguez-98/react-electron-boilerplate)
+![License](https://img.shields.io/github/license/jdrodriguezh/react-electron-boilerplate.svg) ![Issues](https://img.shields.io/github/issues/jdrodriguezh/react-electron-boilerplate.svg) ![forks](https://img.shields.io/github/forks/jdrodriguezh/react-electron-boilerplate) ![stars](https://img.shields.io/github/stars/jdrodriguezh/react-electron-boilerplate) ![size](https://img.shields.io/github/repo-size/jdrodriguezh/react-electron-boilerplate)
 
 This little boilerplate takes care of the Electron setup so you can start developing a [React](https://reactjs.org/) app with [Electron](https://www.electronjs.org/). Bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The scripts include commands to build executables of your app on different systems.
 
@@ -12,7 +12,7 @@ Taking care of initial setup so I can start developing random desktop apps and m
 
 ```bash
 
-> git clone https://github.com/Josue-Rodriguez-98/react-electron-boilerplate
+> git clone https://github.com/jdrodriguezh/react-electron-boilerplate
 
 >  cd  react-electron-boilerplate
 
